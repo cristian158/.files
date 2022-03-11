@@ -1,5 +1,3 @@
-#
-
 #super + ctrl + m
 #  mpd && ncmpcpp
 alt + Return
@@ -27,6 +25,9 @@ super + e
   thunar
 
 super + b
+  btop 
+
+super + ctrl + b
   bitwarden-desktop
 
 super + g
