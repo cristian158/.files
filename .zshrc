@@ -41,13 +41,15 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 ###################
 
 alias ..='cd ..'
-alias ls='ls -lh --color=auto'
+alias ls='ls -lh --color=auto --group-directories-first'
 alias lsa='ls -a'
-alias mkcd='foo(){ mkdir -p "$1"; cd "$1" }; foo '
 alias pm='pacman' 
 alias remove='rm -rfv'
 alias svim='sudo vim'
+
 ## alias h='--help'
+
+alias rsync='rsync -vhP'
 
 # Software
 alias b='btop'
@@ -56,6 +58,7 @@ alias f='fastfetch'
 alias m='mpd && ncmpcpp'
 alias n='ncmpcpp'
 alias p='pulsemixer'
+alias r='ranger'
 alias v='vim'
 alias ani-cli='ani-cli -v'
 
@@ -66,17 +69,27 @@ alias ping='ping -c 5 archlinux.org'
 
 
 
-###############
-###   GIT   ###
-###############
-# alias 's'='status'
+#####################
+###   FUNCTIONS   ###
+#####################
 
+
+mkcd(){ mkdir -p "$1"; cd "$1" }
+
+
+##########
+### GIT
+
+alias gits='git status'
+alias gita='git add'
+alias gitc='git commit -m'
 # Bad practice :))
 acp(){
 	git add .
 	git commit -m "$1"
 	git push
 }
+
 
 # Keybindings
 bindkey "^D" backward-word

@@ -6,7 +6,7 @@
 ./.config/polybar/launch.sh & 
 
 ## MONITOR ##
-bspc monitor -d I II III IV V
+bspc monitor -d I II III IV V VI
 
 ## BSPWM CONFIG
 #bspc config border_radius         8
