@@ -41,15 +41,17 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 ###################
 
 alias ..='cd ..'
+alias ...='cd ../..'
 alias ls='ls -lh --color=auto --group-directories-first'
-alias lsa='ls -a'
+alias lsa='ls -A'
+alias pactree='pactree -c'
 alias pm='pacman' 
 alias remove='rm -rfv'
 alias svim='sudo vim'
-
+alias trash='cd ~/.local/share/Trash/files'
 ## alias h='--help'
 
-alias rsync='rsync -vhP'
+alias rsync='rsync -vahP'
 
 # Software
 alias b='btop'
@@ -58,7 +60,8 @@ alias f='fastfetch'
 alias m='mpd && ncmpcpp'
 alias n='ncmpcpp'
 alias p='pulsemixer'
-alias r='ranger'
+#alias r='ranger'
+alias timesh='sudo nohup timeshift-gtk &'
 alias v='vim'
 alias ani-cli='ani-cli -v'
 
@@ -73,8 +76,10 @@ alias ping='ping -c 5 archlinux.org'
 ###   FUNCTIONS   ###
 #####################
 
+##########
+### Make Dir & Enter it
 
-mkcd(){ mkdir -p "$1"; cd "$1" }
+mkcd(){ mkdir -p "$1"&& cd "$1" }
 
 
 ##########
@@ -92,8 +97,16 @@ acp(){
 
 
 # Keybindings
-bindkey "^D" backward-word
-bindkey "^C" forward-word
+bindkey "^d" backward-word
+bindkey "^f" forward-word
+#bindkey ^w delete previous word
+#^b back one char
+#^f forward one char
+#^h delete previous char
+#^t takes char forward
+#^k take comd onward and memorizes it
+#^7 undo 
+#^s freezes
 
 # For emacs
 # export PATH=$PATH:~/.emacs.d/bin

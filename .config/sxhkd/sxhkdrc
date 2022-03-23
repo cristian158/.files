@@ -1,47 +1,27 @@
-#super + ctrl + m
-#  mpd && ncmpcpp
+super + shift + m
+   $HOME/.config/sxhkd/mpd.sh
+   
 alt + Return
-    alacritty
+  alacritty
 
-super + Return
-	alacritty
+super + {a, e, g, r, v, Return, @space}
+  {ardour6, thunar, gammy, rofi -show run, virt-manager, alacritty, dmenu_run}
 
-super + @space
-	dmenu_run
+super + {b, i, p}
+  alacritty -e {btop, sudo timeshift-gtk, pulsemixer}
 
-super + ctrl + v
-  virtualbox
+super + ctrl + {b, f, r, s, v}
+  {bitwarden-desktop, firefox, alacritty -e ranger, stacer, virtualbox}
 
-super + r 
-  rofi -show run
-
-super + ctrl + f
-  firefox
-
-super + v
-  vivaldi-stable
-
-super + e
-  thunar
-
-super + b
-  btop 
-
-super + ctrl + b
-  bitwarden-desktop
-
-super + g
-  gammy
-
-super + alt + s
-  stacer
+super + alt + x
+  betterlockscreen -l 
 
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
 
 #
-# bspwm hotkeys
+# BSPWM HOTHEYS
 #
 
 super + alt + Escape
@@ -56,9 +36,6 @@ super + {_,shift + }q
 	bspc node -{c,k}
 
 
-super + alt + x
-  betterlockscreen -l 
-
 # alternate between the tiled and monocle layout
 super + m
 	bspc desktop -l next
@@ -71,8 +48,9 @@ super + y
 #super + g
 #	bspc node -s biggest.window
 
+
 #
-# state/flags
+# STATE/FLAGS
 #
 
 # set the window state
@@ -116,7 +94,7 @@ super + {_,shift + }{1-9,0}
 	bspc {desktop -f,node -d} '^{1-9,10}'
 
 #
-# preselect
+# PRESELECT
 #
 
 # preselect the direction
@@ -136,7 +114,7 @@ super + ctrl + shift + space
 	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
 
 #
-# move/resize
+# MOVE/RESIZE
 #
 
 # expand a window by moving one of its side outward
