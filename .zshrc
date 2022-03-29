@@ -42,8 +42,9 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 alias ..='cd ..'
 alias ...='cd ../..'
-alias ls='ls -lh --color=auto --group-directories-first'
+alias ls='lsd -lh --group-dirs first'
 alias lsa='ls -A'
+alias lss='/bin/ls'
 alias pactree='pactree -c'
 alias pm='pacman' 
 alias remove='rm -rfv'
@@ -107,6 +108,8 @@ bindkey "^f" forward-word
 #^k take comd onward and memorizes it
 #^7 undo 
 #^s freezes
+#^u delete from cursor til beginning
+#^r backsearch commmand
 
 # For emacs
 # export PATH=$PATH:~/.emacs.d/bin
