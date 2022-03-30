@@ -62,7 +62,6 @@ alias m='mpd && ncmpcpp'
 alias n='ncmpcpp'
 alias p='pulsemixer'
 #alias r='ranger'
-alias timesh='sudo nohup timeshift-gtk &'
 alias v='vim'
 alias ani-cli='ani-cli -v'
 
@@ -89,6 +88,8 @@ mkcd(){ mkdir -p "$1"&& cd "$1" }
 alias gits='git status'
 alias gita='git add'
 alias gitc='git commit -m'
+alias gitp='git push'
+
 # Bad practice :))
 acp(){
 	git add .
