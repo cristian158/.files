@@ -7,8 +7,8 @@ super + v
 alt + Return
     alacritty
 
-super + {a, e, g, r, Return, @space}
-    {ardour6, thunar, gammy, rofi -show run, alacritty, dmenu_run}
+super + {a, e, g, r, c, Return, @space}
+    {ardour6, thunar, gammy, rofi -show drun, pcmanfm, alacritty, dmenu_run}
 
 super + {b, i, p}
     alacritty -e {btop, sudo timeshift-gtk, pulsemixer}
@@ -19,7 +19,10 @@ super + ctrl + {b, f, r, s, v}
 super + alt + x
     betterlockscreen -l 
 
-# make sxhkd reload its configuration files:
+#
+# RELOAD SXHKD CONFIG FILE:
+#
+
 super + Escape
 	pkill -USR1 -x sxhkd
 

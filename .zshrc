@@ -70,7 +70,8 @@ alias hotS59='nmcli device wifi connect S59 password novoadoogee'
 alias myip='curl http://ipecho.net/plain; echo'
 alias ping='ping -c 5 archlinux.org'
 
-
+# JS Shell Script Example (/sbin)
+alias D='date.js'
 
 #####################
 ###   FUNCTIONS   ###
@@ -111,6 +112,3 @@ bindkey "^f" forward-word
 #^s freezes
 #^u delete from cursor til beginning
 #^r backsearch commmand
-
-# For emacs
-# export PATH=$PATH:~/.emacs.d/bin
