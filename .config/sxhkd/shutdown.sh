@@ -6,7 +6,7 @@ shutdown () {
             read -p "U sure shutdown? " ans
             case $ans in
                 [yY] | [yY][eE][sS])
-                    sudo shutdown now
+                    shutdown now
                     echo Bye bye
                     sleep 1
                     break

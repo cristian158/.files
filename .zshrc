@@ -42,8 +42,9 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 alias ..='cd ..'
 alias ...='cd ../..'
-alias ls='lsd -lh --group-dirs first'
+alias ls='lsd -lh --group-dirs first' 
 alias lsa='ls -A'
+alias lst='ls -A --total-size'
 alias lss='/bin/ls'
 alias pactree='pactree -c'
 alias pm='pacman' 
@@ -56,13 +57,14 @@ alias rsync='rsync -vahP'
 
 # Software
 alias b='btop'
-alias bm='bash ~/bookmarker.sh'
+alias bm='bash ~/github/00scripts/bookmarker.sh'
 alias f='fastfetch'
 alias m='mpd && ncmpcpp'
 alias n='ncmpcpp'
 alias p='pulsemixer'
 #alias r='ranger'
 alias v='vim'
+alias y='yay'
 alias ani-cli='ani-cli -v'
 
 # Network
