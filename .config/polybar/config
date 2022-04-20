@@ -40,8 +40,8 @@ primary = #4c566a
 
 secondary = #FFFFFF
 
-;Rusty Red
-alert = #DE3849
+alert = #BA1866
+;Rusty Red #DE3849
 
 ;Granny Smith Apple
 alert-alt = #A0E8A2
@@ -102,7 +102,7 @@ type = internal/bspwm
 
 label-focused = %index%
 ;label-focused-underline= ${colors.primary}
-label-focused-foreground = #BA1866
+label-focused-foreground = ${colors.alert} 
 label-focused-padding = 2
 
 label-occupied = %index%
@@ -155,7 +155,7 @@ type = internal/pulseaudio
 
 format-volume = <label-volume>
 label-volume =    %{T1}%percentage%%%{T-i} 
-label-volume-foreground = #BA1866
+label-volume-foreground = ${colors.alert} 
 
 label-muted = "     "
 label-muted-foreground = #666

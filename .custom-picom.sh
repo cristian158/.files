@@ -2,4 +2,4 @@
 
 killall picom
 picom --experimental-backends -b &
-nitrogen --set-zoom --random --set-color=[#4c566a] &
+/usr/bin/nitrogen --random --set-zoom --set-color=[#4c566a] &

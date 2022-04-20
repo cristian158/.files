@@ -6,7 +6,7 @@ reboot () {
         read -p "U sure reboot? " ans
         case $ans in
             [yY] | [yY][eE][sS])
-                reboot now
+                sudo reboot now
                 echo Rebooting
                 sleep 1
                 break

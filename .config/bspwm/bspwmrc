@@ -4,7 +4,6 @@
 ## Autostart ##
 ./.custom-picom.sh &
 ./.config/polybar/launch.sh & 
-dunst &
 
 ## Monitor ##
 bspc monitor -d I II III IV V VI
@@ -34,3 +33,6 @@ bspc rule -a Gimp desktop='^4' state=floating follow=on
 bspc rule -a Nicotine desktop='^5' state=floating 
 bspc rule -a ncmpcpp desktop='^6'
 
+sudo loadkeys -d &
+nm-applet --indicator &
+sxhkd &

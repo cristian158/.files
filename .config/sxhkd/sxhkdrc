@@ -7,14 +7,14 @@ super + v
 alt + Return
     alacritty
 
-super + {a, e, g, r, c, Return, @space}
-    {ardour6, thunar, gammy, rofi -show drun, pcmanfm, alacritty, dmenu_run}
+super + {a, e, g, r, c, k, Return, @space}
+    {ardour6, thunar, gammy, rofi -show drun, pcmanfm, kitty, alacritty, dmenu_run}
 
 super + {b, i, p}
     alacritty -e {btop, sudo timeshift-gtk, pulsemixer}
 
-super + ctrl + {b, f, r, s, v}
-    {bitwarden-desktop, firefox, alacritty -e ranger, stacer, virtualbox}
+super + ctrl + {b, f, q, r, s, v}
+    {bitwarden-desktop, firefox, qbittorrent, alacritty -e ranger, stacer, virtualbox}
 
 super + alt + x
     betterlockscreen -l 
