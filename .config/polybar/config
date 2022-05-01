@@ -154,13 +154,13 @@ label = %time%
 type = internal/pulseaudio
 
 format-volume = <label-volume>
-label-volume =    %{T1}%percentage%%%{T-i} 
+label-volume =    %percentage% 
 label-volume-foreground = ${colors.alert} 
 
 label-muted = "     "
 label-muted-foreground = #666
 
-click-right = pulsemixer &
+;click-right = pulsemixer &
 
 
 
