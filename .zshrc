@@ -54,6 +54,8 @@ alias trash='cd ~/.local/share/Trash/files'
 ## alias h='--help'
 
 alias rsync='rsync -vahP'
+alias ffprobe='ffprobe -hide_banner'
+
 
 # Software
 alias b='btop'
