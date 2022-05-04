@@ -40,8 +40,8 @@ primary = #4c566a
 
 secondary = #FFFFFF
 
-alert = #BA1866
 ;Rusty Red #DE3849
+alert = #BA1866
 
 ;Granny Smith Apple
 alert-alt = #A0E8A2
