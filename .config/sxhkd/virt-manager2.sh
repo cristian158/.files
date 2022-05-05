@@ -4,7 +4,7 @@ echo Hola Terrícolas
 echo To start "default" network, you need permission
 sleep 1
 sudo virsh net-start default
-sudo virsh start debian11
+sudo virsh start archlinux 
 sleep 1
 echo Succex
 echo will close in 3
