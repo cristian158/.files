@@ -80,7 +80,7 @@ font-1 = "Symbols Nerd Font:style=2048-em:size=9;2"
 
 modules-left = bspwm 
 modules-center = mpd
-modules-right = date pulseaudio battery xkeyboard 
+modules-right = date pulseaudio battery xkeyboard wlan
 
 ; nm-applet tray and others
 tray-position = right
@@ -160,7 +160,7 @@ label-volume-foreground = ${colors.alert}
 label-muted = "     "
 label-muted-foreground = #666
 
-;click-right = pulsemixer &
+click-right = pulsemixer &
 
 
 
@@ -236,9 +236,10 @@ type = internal/network
 interface = wlp3s0
 interval = 3.0
 
-format-connected = <ramp-signal> <label-connected>
+format-connected = %{A1:nm-connection-editor:} <ramp-signal> %{A}
+;<label-connected>
 format-connected-underline = #9f78e1
-label-connected = %essid%
+;label-connected = %essid%
 
 format-disconnected =
 ;format-disconnected = <label-disconnected>
@@ -252,6 +253,9 @@ ramp-signal-2 = 
 ramp-signal-3 = 
 ramp-signal-4 = 
 ramp-signal-foreground = ${colors.foreground-alt}
+
+click-right = nm-connection-editor &
+
 
 [module/eth]
 type = internal/network

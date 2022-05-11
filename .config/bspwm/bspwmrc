@@ -34,5 +34,5 @@ bspc rule -a Nicotine desktop='^5' state=floating
 bspc rule -a ncmpcpp desktop='^6'
 
 sudo loadkeys -d &
-nm-applet --indicator &
+#nm-applet --indicator &
 sxhkd &
