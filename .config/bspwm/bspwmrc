@@ -3,10 +3,9 @@
 
 ## Autostart ##
 feh -z --bg-max '/home/manjar/Documents/Images/WP/' &
-./.custom-picom.sh &
+./github/00scripts/.custom-picom.sh &
 ./.config/polybar/launch.sh & 
 sudo loadkeys -d &
-#nm-applet --indicator &
 sxhkd &
 
 ## Monitor ##

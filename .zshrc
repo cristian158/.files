@@ -50,25 +50,27 @@ alias pactree='pactree -c'
 alias pm='pacman' 
 alias proxy='proxy.sh'
 alias remove='rm -rfv'
-alias svim='sudo -E vim'
 alias trash='cd ~/.local/share/Trash/files'
 ## alias h='--help'
 
 alias rsync='rsync -vahP'
 alias ffprobe='ffprobe -hide_banner'
 
+alias mictest='arecord -vvv -f dat /dev/null'
 
 # Software
+alias a='alsamixer'
 alias b='btop'
 alias bm='bash ~/github/00scripts/bookmarker.sh'
 alias f='fastfetch -l arch -c blue'
 alias m='mpd && ncmpcpp'
 alias n='ncmpcpp'
+alias nm='nohup nm-applet --indicator &'
 alias p='pulsemixer'
 #alias r='ranger'
+alias svim='sudo -E vim'
 alias v='vim'
 alias y='yay'
-alias ani-cli='ani-cli -v'
 
 # Network
 alias hotS59='nmcli device wifi connect S59 password novoadoogee' 
@@ -76,7 +78,11 @@ alias myip='curl http://ipecho.net/plain; echo'
 alias ping='ping -c 5 archlinux.org'
 
 # JS Shell Script Example (/sbin)
+# ~/github/00scripts/date.js
 alias D='date.js'
+
+# Custom Shell Script to get current WiFi Password
+alias wifi='bash ~/github/00scripts/wifi-password.sh'
 
 #####################
 ###   FUNCTIONS   ###
