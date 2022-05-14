@@ -15,6 +15,7 @@
 ;   The README contains a lot of information
 ;
 ;==========================================================
+
 [global/wm]
 margin-bottom = 0
 
@@ -66,7 +67,7 @@ line-color = ${colors.primary}
 border-size = 2
 
 padding-left = 4
-padding-right = 6
+padding-right = 4 
 
 module-margin-left = 1
 module-margin-right = 2
@@ -84,7 +85,7 @@ modules-right = date pulseaudio battery xkeyboard wlan
 
 ; nm-applet tray and others
 tray-position = right
-tray-padding = 8
+tray-padding = 4
 
 wm-restack = bspwm
 
@@ -204,19 +205,6 @@ format-full-prefix = " "
 
 
 
-[module/filesystem]
-type = internal/fs
-interval = 25
-
-mount-0 = /
-
-format-mounted = <label-mounted>
-label-mounted = %mountpoint% %percentage_used%%
-label-mounted-foreground = #DBA41B
-label-unmounted = %mountpoint% not mounted
-
-
-
 ;KEYBOARD
 [module/xkeyboard]
 type = internal/xkeyboard
@@ -227,10 +215,6 @@ label-layout-foreground = #1FADAD
 
 
 
-##########################################################################
-##########################################################################
-
-
 [module/wlan]
 type = internal/network
 interface = wlp3s0
@@ -238,23 +222,24 @@ interval = 3.0
 
 format-connected = %{A1:nm-connection-editor:} <ramp-signal> %{A}
 ;<label-connected>
-format-connected-underline = #9f78e1
+;format-connected-underline = #9f78e1 
 ;label-connected = %essid%
 
-format-disconnected =
+format-disconnected = 
 ;format-disconnected = <label-disconnected>
 ;format-disconnected-underline = ${self.format-connected-underline}
 ;label-disconnected = %ifname% disconnected
 ;label-disconnected-foreground = ${colors.foreground-alt}
 
-ramp-signal-0 = 
-ramp-signal-1 = 
-ramp-signal-2 = 
-ramp-signal-3 = 
-ramp-signal-4 = 
-ramp-signal-foreground = ${colors.foreground-alt}
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-4 = 
+ramp-signal-foreground = #9f78e1
+;${colors.foreground-alt}
 
-click-right = nm-connection-editor &
+;click-right = nm-connection-editor &
 
 
 [module/eth]
@@ -273,7 +258,12 @@ format-disconnected =
 ;label-disconnected = %ifname% disconnected
 ;label-disconnected-foreground = ${colors.foreground-alt}
 
-;To
+
+
+##########################################################################
+##########################################################################
+
+
 [settings]
 screenchange-reload = true
 ;compositing-background = xor
@@ -355,5 +345,20 @@ bar-volume-fill-font = 2
 bar-volume-empty = ─
 bar-volume-empty-font = 2
 bar-volume-empty-foreground = ${colors.foreground-alt}
+
+
+
+
+[module/filesystem]
+type = internal/fs
+interval = 25
+
+mount-0 = /
+
+format-mounted = <label-mounted>
+label-mounted = %mountpoint% %percentage_used%%
+label-mounted-foreground = #DBA41B
+label-unmounted = %mountpoint% not mounted
+
 
 ; vim:ft=dosini
