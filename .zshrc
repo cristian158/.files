@@ -61,7 +61,6 @@ alias mictest='arecord -vvv -f dat /dev/null'
 # Software
 alias a='alsamixer'
 alias b='btop'
-alias bm='bash ~/github/00scripts/bookmarker.sh'
 alias f='fastfetch -l arch -c blue'
 alias m='mpd && ncmpcpp'
 alias n='ncmpcpp'
@@ -77,12 +76,25 @@ alias hotS59='nmcli device wifi connect S59 password novoadoogee'
 alias myip='curl http://ipecho.net/plain; echo'
 alias ping='ping -c 5 archlinux.org'
 
+
+#########################
+###   CUSTOM SCRIPTS  ###
+#########################
+
+# bookmarker
+alias bm='bash ~/github/00scripts/bookmarker.sh'
+
 # JS Shell Script Example (/sbin)
 # ~/github/00scripts/date.js
 alias D='date.js'
 
+# proxychains librewolf
+alias proxy='bash ~/github/00scripts/proxy.sh'
+
 # Custom Shell Script to get current WiFi Password
 alias wifi='bash ~/github/00scripts/wifi-password.sh'
+
+
 
 #####################
 ###   FUNCTIONS   ###

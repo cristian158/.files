@@ -10,4 +10,4 @@ konex=$networkaa".nmconnection"
 
 #sudo tail -n 12 /etc/NetworkManager/system-connections/$konex | grep psk
 
-sudo bat -f -r 16 /etc/NetworkManager/system-connections/Superbox_WiFi_2.4GHz_6E3A.nmconnection | grep psk
+sudo bat -f -r 16 /etc/NetworkManager/system-connections/$konex | grep psk
