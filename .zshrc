@@ -68,6 +68,7 @@ alias nm='nohup nm-applet --indicator &'
 alias p='pulsemixer'
 #alias r='ranger'
 alias svim='sudo -E vim'
+alias t='.cargo/bin/toipe'
 alias v='vim'
 alias y='yay'
 
@@ -94,7 +95,8 @@ alias proxy='bash ~/github/00scripts/proxy.sh'
 # Custom Shell Script to get current WiFi Password
 alias wifi='bash ~/github/00scripts/wifi-password.sh'
 
-
+# Custom Shell Script to connect to WiFi
+alias connect='bash ~/github/00scripts/connect-wifi.sh'
 
 #####################
 ###   FUNCTIONS   ###
