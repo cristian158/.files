@@ -8223,3 +8223,1067 @@ May 14 20:46 : player: played "00.Discos/Julio Piña/Julio Piña - 10 Arabian Su
 May 15 14:02 : player: played "00.Discos/Julio Piña/Julio Piña - 10 Arabian Surf.mp3"
 May 15 14:04 : player: played "00.Discos/Julio Piña/Julio Piña - 11 Ana la Tirana.mp3"
 May 15 14:09 : player: played "00.Discos/Julio Piña/Julio Piña - 12 High And Dry Cumbia Entre Tus Brazos.mp3"
+May 16 06:41 : player: played "00.Discos/Julio Piña/Julio Piña - 12 High And Dry Cumbia Entre Tus Brazos.mp3"
+May 16 06:45 : player: played "00.Discos/Julio Piña/Julio Piña - 14 La despedida.mp3"
+May 16 06:49 : player: played "00.Discos/Julio Piña/Julio Piña - 15 Mariposa & Vendaval.mp3"
+May 16 06:59 : player: played "00.Discos/Julio Piña/Julio Piña - Déjame pasar La danza de los Bórquez.mp3"
+May 16 10:51 : player: played "00.Discos/Julio Piña/Julio Piña - 08 La mentira.mp3"
+May 16 10:55 : player: played "00.Discos/Julio Piña/Julio Piña - 01 La Danza de los Bórquez.mp3"
+May 16 11:00 : player: played "00.Discos/Julio Piña/Desde el Bosque/Julio Piña - Cumbia entre tus Brazos (En el Bosque).mp3"
+May 16 11:21 : player: played "00.Discos/Julio Piña/Desde el Bosque/Julio Piña - Desde el Bosque -.mp3"
+May 16 11:26 : player: played "00.Discos/Julio Piña/Desde el Bosque/Julio Piña - La Mentira (En el Bosque).mp3"
+May 16 11:30 : player: played "00.Discos/Julio Piña/Desde el Bosque/Julio Piña - Perro Callejero (En el Bosque).mp3"
+May 16 11:37 : player: played "00.Discos/Julio Piña/Desde el Bosque/Julio Piña - Quiero que Recuerdes (En el Bosque).mp3"
+May 16 19:01 : player: played "00.Discos/Funkadelic/2007 - By Way Of The Drum/11. By Way Of The Drum (Basstrumental).mp3"
+May 17 10:38 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+May 17 10:38 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+May 17 10:38 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+May 17 10:38 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+May 17 10:38 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+May 17 10:38 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+May 17 10:38 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+May 17 10:38 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+May 17 10:38 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0001
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0011
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0010
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0009
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0008
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0007
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0006
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0005
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0004
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0003
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0002
+May 17 10:38 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0001
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0011
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0010
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0009
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0008
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0007
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0006
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0005
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0004
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0003
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0002
+May 17 10:38 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0001
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0013
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0012
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0011
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0010
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0009
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0008
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0007
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0006
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0005
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0004
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0003
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0002
+May 17 10:38 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/System Of A Down.cue/track0001
+May 17 10:38 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0004
+May 17 10:38 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0003
+May 17 10:38 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0002
+May 17 10:38 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0001
+May 17 10:38 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0005
+May 17 10:38 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0004
+May 17 10:38 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0003
+May 17 10:38 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0002
+May 17 10:38 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0001
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0012
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0011
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0010
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0009
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0008
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0007
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0006
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0005
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0004
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0003
+May 17 10:38 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0002
+May 17 10:43 : player: played "00.Download/2012 - Rocket Juice & the Moon/01 1-2-3-4-5-6.mp3"
+May 17 10:47 : player: played "00.Download/2012 - Rocket Juice & the Moon/02 Hey, Shooter.mp3"
+May 17 10:52 : player: played "00.Download/2012 - Rocket Juice & the Moon/03 Lolo.mp3"
+May 17 10:55 : player: played "00.Download/2012 - Rocket Juice & the Moon/04 Night Watch.mp3"
+May 17 10:57 : player: played "00.Download/2012 - Rocket Juice & the Moon/05 Forward Sweep.mp3"
+May 17 11:01 : player: played "00.Download/2012 - Rocket Juice & the Moon/06 Follow-Fashion.mp3"
+May 17 11:03 : player: played "00.Download/2012 - Rocket Juice & the Moon/07 Chop Up.mp3"
+May 17 11:07 : player: played "00.Download/2012 - Rocket Juice & the Moon/08 Poison.mp3"
+May 17 11:10 : player: played "00.Download/2012 - Rocket Juice & the Moon/09 Extinguished.mp3"
+May 17 11:12 : player: played "00.Download/2012 - Rocket Juice & the Moon/10 Rotary Connection.mp3"
+May 17 11:14 : player: played "00.Download/2012 - Rocket Juice & the Moon/11 Check Out.mp3"
+May 17 11:19 : player: played "00.Download/2012 - Rocket Juice & the Moon/12 There.mp3"
+May 17 11:23 : player: played "00.Download/2012 - Rocket Juice & the Moon/14 Benko.mp3"
+May 17 11:27 : player: played "00.Download/2012 - Rocket Juice & the Moon/15 The Unfadable.mp3"
+May 17 11:29 : player: played "00.Download/2012 - Rocket Juice & the Moon/16 DAM(N).mp3"
+May 17 11:32 : player: played "00.Download/2012 - Rocket Juice & the Moon/17 Fatherless.mp3"
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/13 Showtime.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/12 Put It In Your Pocket.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/11 Double Jeopardy.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/10 Blowing Changes.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/09 Swunk.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/08 Lonely Woman.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/06 Riverwide.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/05 The Crunge.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/04 Shut Your Mouth.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/03 Just A Moment.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/02 Sweet Nasty.mp3
+May 17 11:35 : update: removing 00.Discos/Joshua Redman/Momentum - Joshua Redman (s), Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d) - 2005/01 Soundcheck.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/01 Soundcheck.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/02 Sweet Nasty.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/03 Just A Moment.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/04 Shut Your Mouth.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/05 The Crunge.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/06 Riverwide.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/08 Lonely Woman.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/09 Swunk.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/10 Blowing Changes.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/11 Double Jeopardy.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/12 Put It In Your Pocket.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2005 - Momentum - Sam Yahel (o), Peter Bernstein (g), Kurt Rosenwinkel (g), Jeff Ballard (d), Brian Blade (d)/13 Showtime.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/03 - Rejoice.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/04 - Faith.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/05 - Alone In The Morning.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/01 - Sweet Sorrow.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/02 - Chill.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/06 - Mischief.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/07 - Dialogue.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/08 - The Oneness Of Two (In Three).mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/09 - Past In The Present.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/10 - Obsession.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/1994 - Mood Swing/11 - Headin' Home.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2020 - RoundAgain/01. Undertow.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2020 - RoundAgain/02. Moe Honk.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2020 - RoundAgain/03. Silly Little Love Song.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2020 - RoundAgain/04. Right Back Round Again.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2020 - RoundAgain/05. Floppy Diss.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2020 - RoundAgain/06. Father.mp3
+May 17 11:35 : update: added 00.Discos/Joshua Redman/2020 - RoundAgain/07. Your Part To Play.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/01 - Suite-Pee.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/02 - Know.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/03 - Sugar.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/04 - Suggestions.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/05 - Spiders.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/06 - DDevil.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/07 - Soil.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/08 - War.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/09 - Mind.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/10 - Peephole.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/11 - CUBErt.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/12 - Darts.flac
+May 17 11:35 : update: added 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/13 - P.L.U.C.K..flac
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 1]/1.01 - Sugar.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 1]/1.02 - Suite-Pee.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 1]/1.03 - DAM.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 1]/1.04 - P.L.U.C.K..mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 2]/01 Honey.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 2]/02 Temper.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 2]/03 Soil (Demo).mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 3]/01 Know (Demo).mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 3]/02 War_ (Demo).mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 3]/Peep Hole (Demo).mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 01 - CUBErt.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 02 - Marmalade.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 03 - DDevil.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 04 - Slow.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 05 - 36.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 06 - Friik.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 07 - Mind.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 08 - Suite-Pee.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 09 - Blue.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 10 - Darts.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 11 - Storaged.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 12 - Sugar.mp3
+May 17 11:35 : update: added 00.Discos/System of a Down/[Demo Tape 4]/System Of A Down - 13 - Metro.mp3
+May 17 11:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+May 17 11:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+May 17 11:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+May 17 11:35 : update: added 00.Discos/Rachmaninoff/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.flac
+May 17 11:35 : update: added 00.Discos/Rachmaninoff/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.flac
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/01 - Young Black Male.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/02 - Trapped.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/03 - Soulja's Story.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/04 - I Don't Give A Fuck.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/05 - Violent.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/07 - Something Wicked.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/06 - Words Of Wisdom.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/08 - Crooked Ass Nigga (feat. Stretch).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/09 - If My Homie Calls.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/10 - Brenda's Got A Baby.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/11 - Tha' Lunatic (feat. Stretch).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/12 - Rebel Of The Underground.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1991] 2Pacalypse Now/13 - Part Time Mutha.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/01 - Holler If Ya Hear Me.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/02 - Pac's Theme (Interlude).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/03 - Point The Finga.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/04 - Something 2 Die 4 (Interlude).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/05 - Last Wordz (feat. Ice Cube & Ice-T).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/06 - Souljah's Revenge.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/07 - Peep Game (feat. Deadly Threat).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/08 - Strugglin' (feat. Live Squad).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/09 - Guess Who's Back.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/10 - Representin' 93.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/11 - Keep Ya Head Up.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/12 - Strictly 4 My N.I.G.G.A.Z....mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/13 - The Streetz R Deathrow.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/14 - I Get Around (feat. Digital Underground).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/15 - Papa'z Song (feat. Wycked Of W.A.T.M. & Poppi).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1993] Strictly 4 My N.I.G.G.A.Z/16 - 5 Deadly Venomz (feat. Treach Of Naughty By Nature, Apache & Live Squad).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/01 - Intro.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/02 - If I Die 2Nite.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/03 - Me Against The World (feat. Dramacydal).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/04 - So Many Tears.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/05 - Temptations.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/06 - Young Niggaz.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/07 - Heavy In The Game (feat. Richie Rich).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/08 - Lord Knows.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/09 - Dear Mama.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/10 - It Ain't Easy.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/11 - Can U Get Away.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/12 - Old School.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/13 - Fuck The World.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/14 - Death Around The Corner.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1995] Me Against The World/15 - Outlaw (feat. Dramacydal).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/01 - Ambitionz Az A Ridah.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/02 - All Bout U (feat. Snoop Dogg, Nate Dogg & Dru Down).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/03 - Skandalouz (feat. Nate Dogg).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/04 - Got My Mind Made Up (feat. Dat Nigga Daz, Kurupt, Redman & Method Man).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/05 - How Do U Want It (feat. K-Ci & JoJo).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/06 - 2 Of Amerikaz Most Wanted (feat. Snoop Dogg).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/07 - No More Pain.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/08 - Heartz of Men.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/09 - Life Goes On.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/10 - Only God Can Judge Me (feat. Rappin' 4-Tay).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/11 - Tradin War Stories (feat. Dramacydal, C-Bo & Storm).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/12 - California Love (Remix) (feat. Dr. Dre & Roger Troutman).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/13 - I Ain't Mad At Cha (feat. Danny Boy).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 1/14 - What'z Ya Phone # (feat. Danny Boy).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/01 - Can't C Me (feat. George Clinton).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/02 - Shorty Wanna Be A Thug.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/03 - Holla At Me.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/04 - Wonda Why They Call U Bitch.mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/05 - When We Ride (feat. Outlaw Immortalz).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/06 - Thug Passion (feat. Jewell, Dramacydal & Storm).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/07 - Picture Me Rollin' (feat. Danny Boy, Big Syke & CPO).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/08 - Check Out Time (feat. Kurupt & Big Syke).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/09 - Ratha Be Ya Nigga (feat. Richie Rich).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/10 - All Eyez On Me (feat. Big Syke).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/11 - Run Tha Streetz (feat. Michel'le, Mutah & Storm).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/12 - Ain't Hard 2 Find (feat. E-40, B-Legit, C-Bo & Richie Rich).mp3
+May 17 11:35 : update: added 00.Discos/2pac/[1996] All Eyez On Me/CD 2/13 - Heaven Ain't Hard 2 Find (feat. Danny Boy).mp3
+May 17 11:35 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 01 4am.mp3
+May 17 11:35 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 02 i got no remorse.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 03 ride like the devil's son.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 04 in the lurch.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 05 50,000 kilowatts.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 06 momento mori.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 07 drown all your witches.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 08 providence.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 09 people forget.mp3
+May 17 11:36 : update: added 00.Discos/Antemasque/2014 - Antemasque/antemasque - antemasque - 10 rome armed to the teeth.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/01 - before your very eyes....mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/02 - default.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/03 - ingenue.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/04 - dropped.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/05 - unless.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/06 - stuck together pieces.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/07 - judge, jury and executioner.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/08 - reverse running.mp3
+May 17 11:36 : update: added 00.Discos/Atoms For Peace/2013 - Amok/09 - amok.mp3
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/01. Galaxie.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/02. 2 X 4.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/03. Vernie.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/04. Skinned.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/05. Toes across the floor.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/06. Walk.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/07. Dumptruck.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/08. Car seat (God's presents).flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/09. Wilt.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/10. The duke.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/11. St. andrew's fall.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/12. New life.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/13. Mouthful of cavities.flac
+May 17 11:36 : update: added 00.Discos/Blind Melon/1992 - Soup [FLAC]/14. Lemonade.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 01 - Cosmic Thing.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 02 - Dry County.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 03 - Deadbeat Club.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 04 - Love Shack.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 05 - Junebug.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 06 - Roam.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 07 - Bushfire.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 08 - Channel Z.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 09 - Topaz.flac
+May 17 11:36 : update: added 00.Discos/Cosmic Thing/The B‐52s - Cosmic Thing - 10 - Follow Your Bliss.flac
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/01 Intro.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/02 Magic Number.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/03 Change In Speak.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/04 Cool Breeze On The Rocks.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/05 Can U Keep A Secret.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/06 Jenifa Taught Me (Derwin's Revenge).mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/07 Ghetto Thang.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/08 Transmitting Live From Mars.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/09 Eye Know.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/10 Take It Off.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/11 A Little Bit Of Soap.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/12 Tread Water.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/13 Potholes In My Lawn.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/14 Say No Go.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/15 Do As De La Does.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/16 Plug Tunin (Last Chance To Comprehend).mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/17 De La Orgee.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/18 Buddy feat. The Jungle Brothers & Q-Tip.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/19 Description.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/20 Me Myself And I.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/21 This Is A Recording 4 Living In A Fulltime Era (L.I.F.E.).mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/22 I Can Do Anything (Delacratic).mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/23 D.A.I.S.Y. Age.mp3
+May 17 11:36 : update: added 00.Discos/De La Soul/3 Feet High And Rising/24 Plug Tunin.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/01 - Three King Fishers.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/02 - Love Is Blue.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/03 - Theme From Valley Of The Dolls.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/04 - Bacchanal.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/05 - Sunshine Superman.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/06 - Some Velvet Morning.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/07 - The Look Of Love.mp3
+May 17 11:36 : update: added 00.Discos/Gábor Szabó/1968 - Bacchanal/08 - The Divided City.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(01) [Headhunters] Straight from the Gate.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(02) [Headhunters] Mayonnaise.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(03) [Headhunters] Ms. Yum Yum.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(04) [Headhunters] Don't Kill Your Feelings.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(05) [Headhunters] Descending Azzizziuh (The Beginning of a Dream).mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(06) [Headhunters] I Remember I Made You Cry.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(07) [Headhunters] Pork Soda.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(08) [Headhunters] Dreams.mp3
+May 17 11:36 : update: added 00.Discos/Headhunters/1977 - Straight from the Gate [Remastered 2000]/(09) [Headhunters] Silhouette.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/01. Body Language (Intro).mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/02. Miami.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/03. Just A Stranger.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/04. Flight 22.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/05. Your Teeth In My Neck.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/06. Tyrant.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/07. Dead To Me.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/08. Nuestro Planeta.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/09. In My Dreams.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/10. Gotta Get Up (Interlude).mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/11. Tomorrow.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/12. Coming Home (Interlude).mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/13. After The Storm.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/14. Feel Like A Fool.mp3
+May 17 11:36 : update: added 00.Discos/Kali Uchi/2018 - Isolation/15. Killer.mp3
+May 17 11:36 : update: added 00.Discos/Kenny Wheeler/1976 - Gnu High/01. heyoke.mp3
+May 17 11:36 : update: added 00.Discos/Kenny Wheeler/1976 - Gnu High/02. smatter.mp3
+May 17 11:36 : update: added 00.Discos/Kenny Wheeler/1976 - Gnu High/03. gnu suite.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/01 exu odara.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/02 olodé.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/03 marquito.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/04 vida mansa.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/05 foi batendo o pé na terra.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/06 febre do rato.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/07 dadá.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/08 veneno.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/09 tambú e candongueiro.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/10 gaba.mp3
+May 17 11:36 : update: added 00.Discos/Kiko Dinucci/2020 - Rastilho/11 rastilho.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 01 - Al Rollo del Gogollo (feat. Brigi de Koma & DJ Rune).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 02 - Rulando (feat. La Mari & Miguel Campello).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 03 - Dinero en Los Bolsillos (feat. Miguel Ángel Rodríguez 'El Sevilla').mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 04 - Planeta Aseituna (feat. Astola & Raton & Javier Ojeda).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 05 - Interludio.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 06 - Nos Vamos Pal Kely (feat. Fuel Fandango).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 07 - A Shuparla Ya (feat. SFDK).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 08 - Mary Jane (feat. Pepillo, Juanito Makandé, Raimundo Amador & Rozalén).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 09 - Riñones Al Jerez (feat. Enrique Villarreal 'El Drogas').mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 10 - Hasta Las Cejas (feat. Capitán Cobarde & Vicky G. Luna).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 11 - Pachamama (feat. Alba Molina & José Valencia).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 12 - El Campito (feat. Antílopez).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 13 - Fiesta Siesta (feat. Gordo Master & Pablo Márquez).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 14 - Caraescombro (feat. Brutal Thin).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 15 - Arte un Waka (feat. Lin Cortés).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 16 - Soñar Despierto (feat. Estirpe).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 17 - Ajierro (feat. Tomasito).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 18 - O'Funk'illo Groove (feat. El Canijo de Jerez).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 19 - Esso Cuerno (feat. Vikingo M.D.).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 20 - Otro Escalón (Bonus Track) (feat. Shotta & Tote King).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/01 dame la pasta.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/02 hasta las cejas.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/04 sin exagerar.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/05 pili chicha.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/06 sociedad ilimitada.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/07 nuevo orden mundial.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/08 llaman a la puerta.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/09 con todas mis ganas.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/10 shalao.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/11 donde estabas tu.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2011 - Sesión Golfa/12 no pare ompare.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 01 - Yo Lo Coloco.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 02 - Rulando.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 03 - Enga!.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 04 - Mary Jane.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 05 - No Me Des la Brasa.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 06 - No Te Cabe Na'.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 07 - Voz de la Ira.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 08 - Maleao.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 09 - Perra Rubia.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 10 - Yo Paso de To'.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 11 - Eshame Cuenn.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 12 - Como Me la Maravillaría Yo.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 13 - Get's Me Through.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 01 - Esso 'cuenno'.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 02 - Dinero En Los Bolsillos.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 03 - Fiesta-Siesta.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 04 - Mandíbula.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 05 - Arte Un Waka.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 06 - Emergencia.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 07 - Devolución 0.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 08 - Planeta Aseituna.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 09 - Tiempos Perros.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 10 - S´r. Goma.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 11 - Loco.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2003 - En el Planeta Aseituna/O'funk'illo - En El Planeta Aseituna - 12 - A Shuparla Ya.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 01 - Agujeritos de Acero (Uncle Fucka).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 02 - Riñones Al Jerez.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 03 - O'Funk'illo Groove.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 04 - Nos Vamos Pal 'Keli.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 05 - En el Campito.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 06 - A 'Jierro.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 07 - Al Rollo del Cogollo.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 08 - Todo Pa' la Pacha Mama.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 09 - El Marmol.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 10 - Que la Voy a Liar.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 11 - Así Estas Donde Estas.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2000 - O'funk'illo/O'Funk'illo - O'Funk'illo - 12 - Cara Escombro 'El Hombre Roncha'.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 01 - Otro Escalon.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 02 - O'Funk'illoterapia (feat. José Miguel Carmona).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 03 - Enredes.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 04 - Mastodonte.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 05 - Estas en Modo Avion (feat. Carlos González Tarque & Ofunkillaz).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 06 - La Momá Tierra.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 07 - Volante Tripolar.mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 08 - Buscando Likes (feat. Kutxi Romero).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 09 - Tengo Que Madurar (Parodia Stayin Alive).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 10 - Fiesta, Siesta (Dub Remix) (feat. Gordo Master & Morodo).mp3
+May 17 11:36 : update: added 00.Discos/O'funk'illo/2020 - O'funk'illoterapia/O'Funk'illoterapia - O'Funk'illo - 11 - Nos Vamos Pa'l Kely (Jungle Remix).mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/01_-_Rosalia_-_Si_Tu_Supieras_Companero.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/02_-_Rosalia_-_De_Plata.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/03_-_Rosalia_-_Nos_Quedamos_Solitos.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/04_-_Rosalia_-_Catalina.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/05_-_Rosalia_-_Dia_14_De_Abril.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/06_-_Rosalia_-_Que_Se_Muere_Que_Se_Muere.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/07_-_Rosalia_-_Por_Mi_Puerta_No_Lo_Pasen.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/08_-_Rosalia_-_Te_Venero.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/09_-_Rosalia_-_Por_Castigarme_Tan_Fuerte.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/10_-_Rosalia_-_La_Hija_De_Juan_Simon.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/11_-_Rosalia_-_El_Redentor.mp3
+May 17 11:36 : update: added 00.Discos/Rosalía/2017 - Los Ángeles/12_-_Rosalia_-_I_See_A_Darkness.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/01 Lagrimas Negras.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/02 Gypsy.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/03 Silver Hollow.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/04 Promenade.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/05 Novia Mia.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/06 Quite Place.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/07 Ahmad the Terrible.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/08 Siempre Maria.mp3
+May 17 11:36 : update: added 00.Discos/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette/2021 - Skyline/09 RonJackRuba.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/01 - A Doida.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/02 - Meu Parceiro.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/03 - Véia.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/04 - Dois Beijinhos.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/05 - Vizinha.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/06 - Amiga Da Minha Mulher.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/07 - Dia De Comemorar.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/08 - Japonesa.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/09 - Olê Olé.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2011 - Músicas Para Churrasco (Vol. I)/10 - Quem Não Quer Sou Eu.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/01 - Seu Jorge - Ela E Bipolar.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/02 - Seu Jorge - Na Verdade Nao Ta.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/03 - Seu Jorge - Faixa De Contorno.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/04 - Seu Jorge - Mina Feia.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/05 - Seu Jorge - Ta Em Tempo.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/06 - Seu Jorge - Papo Reto.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/07 - Seu Jorge - Motoboy.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/08 - Seu Jorge - Felicidade.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/09 - Seu Jorge - Babydoll.mp3
+May 17 11:36 : update: added 00.Discos/Seu Jorge/2015 - Musicas Para Churrasco (Vol. II)/10 - Seu Jorge - Everybody Let's Go.mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/01. Sonido Amazonico (Los Mirlos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/02. Linda Nena (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/03. Cariñito (Los Hijos Del Sol).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/04. A Patricia (Los Destellos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/05. Sacalo Sacalo (Los Diablos Rojos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/06. Ya Se Ha Muerto Mi Abuelo (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/07. El Milagro Verde (Los Mirlos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/08. Para Elisa (Los Destellos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/09. Linda Muñequita (Los Hijos Del Sol).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/10. Muchachita Del Oriente (Los Mirlos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/11. Elsa (Los Destellos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/12. Vacilando Con Ayahuesca (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/13. El Guapo (Los Diablos Rojos).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/14. Mi Morena Rebelde (Eusebio Y Su Banjo).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/15. Si Me Quieres (Los Hijos Del Sol).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/16. Me Robaron Mi Runa Mula (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: added 00.Discos/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/17. La Danza De Los Mirlos (Los Mirlos).mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/01 - los destellos - constelación.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/02 - compay quinto - el diablo.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/03 - los ribereños - silbando.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/04 - los ilusionistas - colegiala.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/05 - los destellos - la pastorcita.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/06 - los wembler's de iquitos - lamento del yacuruna.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/07 - grupo celeste - como un ave.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/08 - manzanita y su conjunto - el hueleguiso.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/10 - los destellos - cumbia del desierto.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/11 - ranil y su conjunto - mala mujer.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/12 - manzanita y su conjunto - agua.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/13 - los shapis - el aguajal.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/14 - manzanita y su conjunto - paga la cuenta sinvergüenza.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/15 - los walkers - siboney.mp3
+May 17 11:36 : update: added 00.Discos/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/16 - los wembler's de iquitos - la danza del petrolero.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/01 - Return from the Stars.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/02 - Terminus.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/03 - Bridgetown.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/04 - It’s Not Alright with Me.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/05 - Nigeria II.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/06 - Waste Land.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/07 - Unacceptable.mp3
+May 17 11:36 : update: added 00.Discos/Mark Turner/2004 - Return from the Stars/08 - Lincoln Heights.mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/01 - Maria Lando [Susana Baca].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/04 - Samba Malato [Lucila Campos].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/09 - Toro Mata [Lucila Campos].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/02 - Yo No Soy Jaqui [Manuel Donayre].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/03 - Canterurias [Cecilia Barraza].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/05 - Enciendete Candela [Roberto Rivas And El Conj. Gente Morena].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/06 - Azucar De Cana [Eva Ayllon].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/07 - Prendeme La Vela [Abelardo Vasquez And Cumanana].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/08 - Lando [Chabuca Granda].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/10 - Son De Los Diablos [Peru Negro].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/11 - No Me Cumben [Nicomedes Santa Cruz].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/12 - Una Larga Noche [Chabuca Granda].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/13 - Lando [Peru Negro].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/14 - Maria Lando [David Byrne].mp3
+May 17 11:36 : update: added 00.Discos/1995 - The Soul Of Black Peru/15 - Zapateo En Menor [Various Artists].mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/13 - Part Time Mutha.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/12 - Rebel Of The Underground.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/11 - Tha' Lunatic (feat. Stretch).mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/10 - Brenda's Got A Baby.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/09 - If My Homie Calls.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/08 - Crooked Ass Nigga (feat. Stretch).mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/07 - Something Wicked.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/06 - Words Of Wisdom.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/05 - Violent.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/04 - I Don't Give A Fuck.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/03 - Soulja's Story.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/02 - Trapped.mp3
+May 17 11:36 : update: removing 00.Download/[1991] 2Pacalypse Now/01 - Young Black Male.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/10 - Pantera - P-S-T-88.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/09 - Pantera - Burnnn!.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/08 - Pantera - Hard Ride.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/07 - Pantera - Death Trap.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/06 - Pantera - Down Below.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/05 - Pantera - Proud To Be Loud.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/04 - Pantera - Over And Out.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/03 - Pantera - We'll Meet Again.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/02 - Pantera - Power Metal.mp3
+May 17 11:36 : update: removing 00.Download/(1988) Power Metal/01 - Pantera - Rock The World.mp3
+May 17 11:36 : update: removing 00.Download/12 no pare ompare.mp3
+May 17 11:36 : update: removing 00.Download/11 donde estabas tu.mp3
+May 17 11:36 : update: removing 00.Download/10 shalao.mp3
+May 17 11:36 : update: removing 00.Download/09 con todas mis ganas.mp3
+May 17 11:36 : update: removing 00.Download/08 llaman a la puerta.mp3
+May 17 11:36 : update: removing 00.Download/07 nuevo orden mundial.mp3
+May 17 11:36 : update: removing 00.Download/06 sociedad ilimitada.mp3
+May 17 11:36 : update: removing 00.Download/05 pili chicha.mp3
+May 17 11:36 : update: removing 00.Download/04 sin exagerar.mp3
+May 17 11:36 : update: removing 00.Download/02 hasta las cejas.mp3
+May 17 11:36 : update: removing 00.Download/01 dame la pasta.mp3
+May 17 11:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+May 17 11:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+May 17 11:36 : update: removing 00.Download/07. Your Part To Play.mp3
+May 17 11:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+May 17 11:36 : update: removing 00.Download/06. Father.mp3
+May 17 11:36 : update: removing 00.Download/05. Floppy Diss.mp3
+May 17 11:36 : update: removing 00.Download/04. Right Back Round Again.mp3
+May 17 11:36 : update: removing 00.Download/03. Silly Little Love Song.mp3
+May 17 11:36 : update: removing 00.Download/02. Moe Honk.mp3
+May 17 11:36 : update: removing 00.Download/01. Undertow.mp3
+May 17 11:36 : update: removing 00.Download/08 - Lincoln Heights.mp3
+May 17 11:36 : update: removing 00.Download/07 - Unacceptable.mp3
+May 17 11:36 : update: removing 00.Download/06 - Waste Land.mp3
+May 17 11:36 : update: removing 00.Download/05 - Nigeria II.mp3
+May 17 11:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+May 17 11:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+May 17 11:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+May 17 11:36 : update: removing 00.Download/04 - It’s Not Alright with Me.mp3
+May 17 11:36 : update: removing 00.Download/03 - Bridgetown.mp3
+May 17 11:36 : update: removing 00.Download/02 - Terminus.mp3
+May 17 11:36 : update: removing 00.Download/01 - Return from the Stars.mp3
+May 17 11:36 : update: removing 00.Download/09 - Since I've Been Loving You.flac
+May 17 11:36 : update: removing 00.Download/09 - Since I've Been Loving You (1).flac
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/16 - los wembler's de iquitos - la danza del petrolero.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/15 - los walkers - siboney.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/14 - manzanita y su conjunto - paga la cuenta sinvergüenza.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/13 - los shapis - el aguajal.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/12 - manzanita y su conjunto - agua.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/11 - ranil y su conjunto - mala mujer.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/10 - los destellos - cumbia del desierto.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/08 - manzanita y su conjunto - el hueleguiso.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/07 - grupo celeste - como un ave.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/06 - los wembler's de iquitos - lamento del yacuruna.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/05 - los destellos - la pastorcita.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/04 - los ilusionistas - colegiala.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/03 - los ribereños - silbando.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/02 - compay quinto - el diablo.mp3
+May 17 11:36 : update: removing 00.Download/VA - The Roots Of Chicha 2 - Psychedelic Cumbias From Peru (2010)/01 - los destellos - constelación.mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/17. La Danza De Los Mirlos (Los Mirlos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/16. Me Robaron Mi Runa Mula (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/15. Si Me Quieres (Los Hijos Del Sol).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/14. Mi Morena Rebelde (Eusebio Y Su Banjo).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/13. El Guapo (Los Diablos Rojos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/12. Vacilando Con Ayahuesca (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/11. Elsa (Los Destellos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/10. Muchachita Del Oriente (Los Mirlos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/09. Linda Muñequita (Los Hijos Del Sol).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/08. Para Elisa (Los Destellos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/07. El Milagro Verde (Los Mirlos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/06. Ya Se Ha Muerto Mi Abuelo (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/05. Sacalo Sacalo (Los Diablos Rojos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/04. A Patricia (Los Destellos).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/03. Cariñito (Los Hijos Del Sol).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/02. Linda Nena (Juaneco Y Su Combo).mp3
+May 17 11:36 : update: removing 00.Download/V.A. - (2007) The Roots Of Chicha- Psychedelic Cumbias From Peru/01. Sonido Amazonico (Los Mirlos).mp3
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/13 - P.L.U.C.K..flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/12 - Darts.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/11 - CUBErt.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/10 - Peephole.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/09 - Mind.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/08 - War.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/07 - Soil.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/06 - DDevil.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/05 - Spiders.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/04 - Suggestions.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/03 - Sugar.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/02 - Know.flac
+May 17 11:36 : update: removing 00.Download/System Of A Down - 1998 - System Of A Down/01 - Suite-Pee.flac
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 13 - Metro.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 12 - Sugar.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 11 - Storaged.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 10 - Darts.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 09 - Blue.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 08 - Suite-Pee.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 07 - Mind.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 06 - Friik.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 05 - 36.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 04 - Slow.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 03 - DDevil.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 02 - Marmalade.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 4]/System Of A Down - 01 - CUBErt.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 3]/Peep Hole (Demo).mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 3]/02 War_ (Demo).mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 3]/01 Know (Demo).mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 2]/03 Soil (Demo).mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 2]/02 Temper.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 2]/01 Honey.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 1]/1.04 - P.L.U.C.K..mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 1]/1.03 - DAM.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 1]/1.02 - Suite-Pee.mp3
+May 17 11:36 : update: removing 00.Download/System of a Down - [Demo Tape 1]/1.01 - Sugar.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/10 - Quem Não Quer Sou Eu.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/09 - Olê Olé.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/08 - Japonesa.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/07 - Dia De Comemorar.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/06 - Amiga Da Minha Mulher.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/05 - Vizinha.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/04 - Dois Beijinhos.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/03 - Véia.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/02 - Meu Parceiro.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Músicas Para Churrasco (Vol. I) - 320/01 - A Doida.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/10 - Seu Jorge - Everybody Let's Go.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/09 - Seu Jorge - Babydoll.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/08 - Seu Jorge - Felicidade.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/07 - Seu Jorge - Motoboy.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/06 - Seu Jorge - Papo Reto.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/05 - Seu Jorge - Ta Em Tempo.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/04 - Seu Jorge - Mina Feia.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/03 - Seu Jorge - Faixa De Contorno.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/02 - Seu Jorge - Na Verdade Nao Ta.mp3
+May 17 11:36 : update: removing 00.Download/Seu Jorge - Musicas Para Churrasco/01 - Seu Jorge - Ela E Bipolar.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/09 RonJackRuba.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/08 Siempre Maria.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/07 Ahmad the Terrible.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/06 Quite Place.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/05 Novia Mia.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/04 Promenade.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/03 Silver Hollow.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/02 Gypsy.mp3
+May 17 11:36 : update: removing 00.Download/Rubalcaba, Gonzalo with Ron Carter & Jack DeJohnette - Skyline/01 Lagrimas Negras.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/12_-_Rosalia_-_I_See_A_Darkness.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/11_-_Rosalia_-_El_Redentor.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/10_-_Rosalia_-_La_Hija_De_Juan_Simon.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/09_-_Rosalia_-_Por_Castigarme_Tan_Fuerte.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/08_-_Rosalia_-_Te_Venero.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/07_-_Rosalia_-_Por_Mi_Puerta_No_Lo_Pasen.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/06_-_Rosalia_-_Que_Se_Muere_Que_Se_Muere.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/05_-_Rosalia_-_Dia_14_De_Abril.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/04_-_Rosalia_-_Catalina.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/03_-_Rosalia_-_Nos_Quedamos_Solitos.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/02_-_Rosalia_-_De_Plata.mp3
+May 17 11:36 : update: removing 00.Download/ROSALÍA 2017 LOS ÁNGELES/01_-_Rosalia_-_Si_Tu_Supieras_Companero.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 11 - Nos Vamos Pa'l Kely (Jungle Remix).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 10 - Fiesta, Siesta (Dub Remix) (feat. Gordo Master & Morodo).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 09 - Tengo Que Madurar (Parodia Stayin Alive).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 08 - Buscando Likes (feat. Kutxi Romero).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 07 - Volante Tripolar.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 06 - La Momá Tierra.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 05 - Estas en Modo Avion (feat. Carlos González Tarque & Ofunkillaz).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 04 - Mastodonte.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 03 - Enredes.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 02 - O'Funk'illoterapia (feat. José Miguel Carmona).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illoterapia - O'Funk'illo - 01 - Otro Escalon.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 12 - Cara Escombro 'El Hombre Roncha'.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 11 - Así Estas Donde Estas.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 10 - Que la Voy a Liar.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 09 - El Marmol.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 08 - Todo Pa' la Pacha Mama.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 07 - Al Rollo del Cogollo.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 06 - A 'Jierro.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 05 - En el Campito.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 04 - Nos Vamos Pal 'Keli.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 03 - O'Funk'illo Groove.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 02 - Riñones Al Jerez.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'Funk'illo - O'Funk'illo - 01 - Agujeritos de Acero (Uncle Fucka).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 13 - Get's Me Through.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 12 - Como Me la Maravillaría Yo.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 11 - Eshame Cuenn.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 10 - Yo Paso de To'.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 09 - Perra Rubia.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 08 - Maleao.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 07 - Voz de la Ira.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 06 - No Te Cabe Na'.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 05 - No Me Des la Brasa.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 04 - Mary Jane.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 03 - Enga!.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 02 - Rulando.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/No Te Cabe Na' - O'Funk'illo - 01 - Yo Lo Coloco.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 12 - A Shuparla Ya.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 11 - Loco.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 10 - S´r. Goma.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 09 - Tiempos Perros.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 08 - Planeta Aseituna.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 07 - Devolución 0.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 06 - Emergencia.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 05 - Arte Un Waka.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 04 - Mandíbula.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 03 - Fiesta-Siesta.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 02 - Dinero En Los Bolsillos.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/O'funk'illo - En El Planeta Aseituna - 01 - Esso 'cuenno'.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 20 - Otro Escalón (Bonus Track) (feat. Shotta & Tote King).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 19 - Esso Cuerno (feat. Vikingo M.D.).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 18 - O'Funk'illo Groove (feat. El Canijo de Jerez).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 17 - Ajierro (feat. Tomasito).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 16 - Soñar Despierto (feat. Estirpe).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 15 - Arte un Waka (feat. Lin Cortés).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 14 - Caraescombro (feat. Brutal Thin).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 13 - Fiesta Siesta (feat. Gordo Master & Pablo Márquez).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 12 - El Campito (feat. Antílopez).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 11 - Pachamama (feat. Alba Molina & José Valencia).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 10 - Hasta Las Cejas (feat. Capitán Cobarde & Vicky G. Luna).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 09 - Riñones Al Jerez (feat. Enrique Villarreal 'El Drogas').mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 08 - Mary Jane (feat. Pepillo, Juanito Makandé, Raimundo Amador & Rozalén).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 07 - A Shuparla Ya (feat. SFDK).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 06 - Nos Vamos Pal Kely (feat. Fuel Fandango).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 05 - Interludio.mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 04 - Planeta Aseituna (feat. Astola & Raton & Javier Ojeda).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 03 - Dinero en Los Bolsillos (feat. Miguel Ángel Rodríguez 'El Sevilla').mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 02 - Rulando (feat. La Mari & Miguel Campello).mp3
+May 17 11:36 : update: removing 00.Download/O'funk'illo/20 años Ajierro & 30 Amigos Embrutessio/20 Años Ajierro & 30 Amigos Embrutessio - O'Funk'illo - 01 - Al Rollo del Gogollo (feat. Brigi de Koma & DJ Rune).mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/11 - Headin' Home.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/10 - Obsession.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/09 - Past In The Present.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/08 - The Oneness Of Two (In Three).mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/07 - Dialogue.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/06 - Mischief.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/05 - Alone In The Morning.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/04 - Faith.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/03 - Rejoice.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/02 - Chill.mp3
+May 17 11:36 : update: removing 00.Download/Mood Swing/01 - Sweet Sorrow.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/11 rastilho.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/10 gaba.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/09 tambú e candongueiro.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/08 veneno.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/07 dadá.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/06 febre do rato.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/05 foi batendo o pé na terra.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/04 vida mansa.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/03 marquito.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/02 olodé.mp3
+May 17 11:36 : update: removing 00.Download/kiko dinucci 2020 rastilho/01 exu odara.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(09) [Headhunters] Silhouette.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(08) [Headhunters] Dreams.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(07) [Headhunters] Pork Soda.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(06) [Headhunters] I Remember I Made You Cry.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(05) [Headhunters] Descending Azzizziuh (The Beginning of a Dream).mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(04) [Headhunters] Don't Kill Your Feelings.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(03) [Headhunters] Ms. Yum Yum.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(02) [Headhunters] Mayonnaise.mp3
+May 17 11:36 : update: removing 00.Download/Headhunters - Straight from the Gate [1977, Remastered 2000]/(01) [Headhunters] Straight from the Gate.mp3
+May 17 11:36 : update: removing 00.Download/Gabor Szabo - 1968 Bacchanal/03 - Theme from Valley of the Dolls.mp3
+May 17 11:36 : update: removing 00.Download/Gabor Szabo - 1968 Bacchanal/02 - Love Is Blue.mp3
+May 17 11:36 : update: removing 00.Download/Gabor Szabo - 1968 Bacchanal/01 - Three King Fishers.mp3
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 10 - Follow Your Bliss.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 09 - Topaz.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 08 - Channel Z.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 07 - Bushfire.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 06 - Roam.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 05 - Junebug.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 04 - Love Shack.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 03 - Deadbeat Club.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 02 - Dry County.flac
+May 17 11:36 : update: removing 00.Download/Cosmic Thing/The B‐52s - Cosmic Thing - 01 - Cosmic Thing.flac
+May 17 11:36 : update: removing 00.Download/CD 2/13 - Heaven Ain't Hard 2 Find (feat. Danny Boy).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/12 - Ain't Hard 2 Find (feat. E-40, B-Legit, C-Bo & Richie Rich).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/11 - Run Tha Streetz (feat. Michel'le, Mutah & Storm).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/10 - All Eyez On Me (feat. Big Syke).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/09 - Ratha Be Ya Nigga (feat. Richie Rich).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/08 - Check Out Time (feat. Kurupt & Big Syke).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/07 - Picture Me Rollin' (feat. Danny Boy, Big Syke & CPO).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/06 - Thug Passion (feat. Jewell, Dramacydal & Storm).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/05 - When We Ride (feat. Outlaw Immortalz).mp3
+May 17 11:36 : update: removing 00.Download/CD 2/04 - Wonda Why They Call U Bitch.mp3
+May 17 11:36 : update: removing 00.Download/CD 2/03 - Holla At Me.mp3
+May 17 11:36 : update: removing 00.Download/CD 2/02 - Shorty Wanna Be A Thug.mp3
+May 17 11:36 : update: removing 00.Download/CD 2/01 - Can't C Me (feat. George Clinton).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/14 - What'z Ya Phone # (feat. Danny Boy).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/13 - I Ain't Mad At Cha (feat. Danny Boy).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/12 - California Love (Remix) (feat. Dr. Dre & Roger Troutman).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/11 - Tradin War Stories (feat. Dramacydal, C-Bo & Storm).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/10 - Only God Can Judge Me (feat. Rappin' 4-Tay).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/09 - Life Goes On.mp3
+May 17 11:36 : update: removing 00.Download/CD 1/08 - Heartz of Men.mp3
+May 17 11:36 : update: removing 00.Download/CD 1/07 - No More Pain.mp3
+May 17 11:36 : update: removing 00.Download/CD 1/06 - 2 Of Amerikaz Most Wanted (feat. Snoop Dogg).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/05 - How Do U Want It (feat. K-Ci & JoJo).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/04 - Got My Mind Made Up (feat. Dat Nigga Daz, Kurupt, Redman & Method Man).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/03 - Skandalouz (feat. Nate Dogg).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/02 - All Bout U (feat. Snoop Dogg, Nate Dogg & Dru Down).mp3
+May 17 11:36 : update: removing 00.Download/CD 1/01 - Ambitionz Az A Ridah.mp3
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/14. Lemonade.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/13. Mouthful of cavities.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/12. New life.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/11. St. andrew's fall.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/10. The duke.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/09. Wilt.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/08. Car seat (God's presents).flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/07. Dumptruck.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/06. Walk.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/05. Toes across the floor.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/04. Skinned.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/03. Vernie.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/02. 2 X 4.flac
+May 17 11:36 : update: removing 00.Download/Blind Melon - Soup [FLAC]/01. Galaxie.flac
+May 17 11:36 : update: removing 00.Download/Bacchanal/08 - The Divided City.mp3
+May 17 11:36 : update: removing 00.Download/Bacchanal/07 - The Look Of Love.mp3
+May 17 11:36 : update: removing 00.Download/Bacchanal/06 - Some Velvet Morning.mp3
+May 17 11:36 : update: removing 00.Download/Bacchanal/05 - Sunshine Superman.mp3
+May 17 11:36 : update: removing 00.Download/Bacchanal/04 - Bacchanal.mp3
+May 17 11:36 : update: removing 00.Download/Bacchanal/03 - Theme From Valley Of The Dolls.mp3
+May 17 11:36 : update: removing 00.Download/Bacchanal/02 - Love Is Blue.mp3
+May 17 11:36 : update: removing 00.Download/Bacchanal/01 - Three King Fishers.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/09 - amok.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/08 - reverse running.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/07 - judge, jury and executioner.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/06 - stuck together pieces.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/05 - unless.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/04 - dropped.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/03 - ingenue.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/02 - default.mp3
+May 17 11:36 : update: removing 00.Download/Atoms For Peace - AMOK (2013)/01 - before your very eyes....mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 10 rome armed to the teeth.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 09 people forget.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 08 providence.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 07 drown all your witches.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 06 momento mori.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 05 50,000 kilowatts.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 04 in the lurch.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 03 ride like the devil's son.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 02 i got no remorse.mp3
+May 17 11:36 : update: removing 00.Download/Antemasque - Antemasque (2014)/antemasque - antemasque - 01 4am.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/24 Plug Tunin.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/23 D.A.I.S.Y. Age.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/22 I Can Do Anything (Delacratic).mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/21 This Is A Recording 4 Living In A Fulltime Era (L.I.F.E.).mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/20 Me Myself And I.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/19 Description.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/18 Buddy feat. The Jungle Brothers & Q-Tip.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/17 De La Orgee.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/16 Plug Tunin (Last Chance To Comprehend).mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/15 Do As De La Does.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/14 Say No Go.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/13 Potholes In My Lawn.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/12 Tread Water.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/11 A Little Bit Of Soap.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/10 Take It Off.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/09 Eye Know.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/08 Transmitting Live From Mars.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/07 Ghetto Thang.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/06 Jenifa Taught Me (Derwin's Revenge).mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/05 Can U Keep A Secret.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/04 Cool Breeze On The Rocks.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/03 Change In Speak.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/02 Magic Number.mp3
+May 17 11:36 : update: removing 00.Download/3 Feet High And Rising/01 Intro.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/15. Killer.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/14. Feel Like A Fool.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/13. After The Storm.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/12. Coming Home (Interlude).mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/11. Tomorrow.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/10. Gotta Get Up (Interlude).mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/09. In My Dreams.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/08. Nuestro Planeta.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/07. Dead To Me.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/06. Tyrant.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/05. Your Teeth In My Neck.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/04. Flight 22.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/03. Just A Stranger.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/02. Miami.mp3
+May 17 11:36 : update: removing 00.Download/2018 - Isolation/01. Body Language (Intro).mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/15 - Zapateo En Menor [Various Artists].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/14 - Maria Lando [David Byrne].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/13 - Lando [Peru Negro].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/12 - Una Larga Noche [Chabuca Granda].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/11 - No Me Cumben [Nicomedes Santa Cruz].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/10 - Son De Los Diablos [Peru Negro].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/09 - Toro Mata [Lucila Campos].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/08 - Lando [Chabuca Granda].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/07 - Prendeme La Vela [Abelardo Vasquez And Cumanana].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/06 - Azucar De Cana [Eva Ayllon].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/05 - Enciendete Candela [Roberto Rivas And El Conj. Gente Morena].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/04 - Samba Malato [Lucila Campos].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/03 - Canterurias [Cecilia Barraza].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/02 - Yo No Soy Jaqui [Manuel Donayre].mp3
+May 17 11:36 : update: removing 00.Download/1995 - The Soul Of Black Peru/01 - Maria Lando [Susana Baca].mp3
+May 17 11:36 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.flac
+May 17 11:36 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.flac.cue/track0004
+May 17 11:36 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.flac.cue/track0003
+May 17 11:36 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.flac.cue/track0002
+May 17 11:36 : update: removing 00.Download/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.flac.cue/track0001
+May 17 11:36 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.flac
+May 17 11:36 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.flac.cue/track0005
+May 17 11:36 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.flac.cue/track0004
+May 17 11:36 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.flac.cue/track0003
+May 17 11:36 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.flac.cue/track0002
+May 17 11:36 : update: removing 00.Download/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.flac.cue/track0001
+May 17 11:36 : update: removing 00.Download/[ECM 1069] Kenny Wheeler - 1976 - Gnu High/03. gnu suite.mp3
+May 17 11:36 : update: removing 00.Download/[ECM 1069] Kenny Wheeler - 1976 - Gnu High/02. smatter.mp3
+May 17 11:36 : update: removing 00.Download/[ECM 1069] Kenny Wheeler - 1976 - Gnu High/01. heyoke.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/15 - Outlaw (feat. Dramacydal).mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/14 - Death Around The Corner.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/13 - Fuck The World.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/12 - Old School.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/11 - Can U Get Away.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/10 - It Ain't Easy.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/09 - Dear Mama.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/08 - Lord Knows.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/07 - Heavy In The Game (feat. Richie Rich).mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/06 - Young Niggaz.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/05 - Temptations.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/04 - So Many Tears.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/03 - Me Against The World (feat. Dramacydal).mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/02 - If I Die 2Nite.mp3
+May 17 11:36 : update: removing 00.Download/[1995] Me Against The World/01 - Intro.mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/16 - 5 Deadly Venomz (feat. Treach Of Naughty By Nature, Apache & Live Squad).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/15 - Papa'z Song (feat. Wycked Of W.A.T.M. & Poppi).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/14 - I Get Around (feat. Digital Underground).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/13 - The Streetz R Deathrow.mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/12 - Strictly 4 My N.I.G.G.A.Z....mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/11 - Keep Ya Head Up.mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/10 - Representin' 93.mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/09 - Guess Who's Back.mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/08 - Strugglin' (feat. Live Squad).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/07 - Peep Game (feat. Deadly Threat).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/06 - Souljah's Revenge.mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/05 - Last Wordz (feat. Ice Cube & Ice-T).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/04 - Something 2 Die 4 (Interlude).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/03 - Point The Finga.mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/02 - Pac's Theme (Interlude).mp3
+May 17 11:36 : update: removing 00.Download/[1993] Strictly 4 My N.I.G.G.A.Z/01 - Holler If Ya Hear Me.mp3
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0012
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0011
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0010
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0009
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0008
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0007
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0006
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0005
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0004
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0003
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0002
+May 17 11:36 : update: removing 00.Discos/The Mars Volta/The Mars Volta - 2008 - The Bedlam In Goliath/The Bedlam In Goliath.cue/track0001
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0013
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0012
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0011
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0010
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0009
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0008
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0007
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0006
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0005
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0004
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0003
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0002
+May 17 11:36 : update: removing 00.Discos/System of a Down/1998 - System Of A Down [FLAC]/System Of A Down.cue/track0001
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0004
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0003
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0002
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.10.26}  Symphony No.3 + The Isle of the Dead  {1992.10.26, CD, Nimbus, NI 5344}/Sergei Rachmaninoff - Symphony No.3 + The Isle of the Dead.cue/track0001
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0005
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0004
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0003
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0002
+May 17 11:36 : update: removing 00.Discos/Rachmaninoff/{1992.00.00}  Symphony No.2 + Vocalise  {1992, CD, Nimbus, NI 5322}/Sergei Rachmaninoff - Symphony No.2 + Vocalise.cue/track0001
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0011
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0010
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0009
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0008
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0007
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0006
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0005
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0004
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0003
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0002
+May 17 11:36 : update: removing 00.Discos/Kurt Rosenwinkel/2017 - Caipi [FLAC]/Caipi.cue/track0001
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0011
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0010
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0009
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0008
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0007
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0006
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0005
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0004
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0003
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0002
+May 17 11:36 : update: removing 00.Discos/Erykah Badu/Erykah Badu[New Amerykah Part Two (Return of the Ankh)]2010[MP3 VBR V0]what/New Amerykah Part Two (Return of the Ankh).cue/track0001
+May 17 11:37 : ffmpeg/wmav2: Could not update timestamps for skipped samples.
+May 17 11:42 : player: played "00.Discos/O'funk'illo/2011 - Sesión Golfa/11 donde estabas tu.mp3"
+May 17 16:22 : player: played "00.Discos/John Coltrane/1965 - The John Coltrane Quartet Plays/04. Song of Praise.flac"
+May 17 16:26 : player: played "00.Discos/Stevie Wonder/1973 - Innervisions/01 - Too High.mp3"
+May 17 16:35 : player: played "00.Discos/Ornette Coleman/1959 - The Shape Of Jazz To Come/03 - Peace.mp3"
+May 17 16:39 : player: played "00.Discos/Rough Guides/2005 - Rough Guide to Music - The Sahara/07 - Nayim Alal - Bleida.mp3"
+May 17 16:46 : player: played "djembe1/yankadi makru/02 Yankadi Makru.mp3"
+May 17 16:54 : player: played "00.Discos/Dizzy Gillespie/Dizzy Gillespie - Night in Tunisia/Dizzy Gillespie Big Band - 04 - Con Alma.mp3"
+May 17 20:41 : player: played "00.Discos/Solomon Burke/The Very Best Of/10 - The Price.mp3"
+May 17 20:44 : player: played "00.Discos/Eva Ayllón/Más Eva Que Nunca/01 Desde Que Te Vi.mp3"
+May 17 20:48 : player: played "00.Discos/Funkadelic/1970 - Funkadelic (2005)/04. I Got A Thing, You Got A Thing, Everybody's Got A Thing.mp3"
+May 17 20:54 : player: played "00.Discos/Los Tres/1995 - La Espada & La Pared/11 La Espada.mp3"
+May 17 20:55 : player: played "00.Discos/Lando Buleria/02 mariquita maria.mp3"
+May 17 20:59 : player: played "00.Discos/Eva Cassidy/1997 - Eva By Heart/05. Blues In The Night.mp3"
+May 17 21:33 : player: played "00.Discos/Art Blakey/1964 - Free For All/02 Hammer Head.mp3"
+May 17 21:38 : player: played "00.Discos/Led Zepellin/CD2 (1)/03 - Down By The Seaside.flac"
+May 17 21:41 : player: played "00.Discos/Blues/12345 Blues/Eric Clapton.06.Too much monkey business.Blues.mp3"
+May 17 21:47 : player: played "00.Discos/Mecánica Popular/1998 - Mecánica Popular/04. Las Meninas.mp3"
+May 17 21:51 : player: played "00/Darude - Sandstorm - Cumbia Drive.mp3"
+May 17 21:54 : player: played "00.Discos/Bauhaus/1981 - Mask/11 - In Fear Of Dub.mp3"
+May 17 21:56 : player: played "00.Discos/Rory Gallagher/[1971-2] Deuce/03 - Don't Know Where I'm Going.mp3"
+May 17 21:58 : player: played "00.Discos/Los Chileneros/1967 - La Cueca Centrina/11 - La flor de la verbena.mp3"
+May 17 22:02 : player: played "00/y2mate.com - Szászcsávás Band Mahala.mp3"
+May 17 22:05 : player: played "Mak Donal, Mozthaza - Ni Bien Ni Mal.mp3"
+May 17 22:08 : player: played "Aunque no sea conmigo..mp3"
+May 17 22:15 : player: played "00.Discos/O'funk'illo/2005 - No te Cabe Na/No Te Cabe Na' - O'Funk'illo - 04 - Mary Jane.mp3"
+May 18 01:32 : player: played "00.Discos/Congreso/1975 - Terra Incognita/09 - Vuelta y Vuelta.mp3"
+May 19 04:09 : player: played "00.Discos/Congreso/1975 - Terra Incognita/09 - Vuelta y Vuelta.mp3"

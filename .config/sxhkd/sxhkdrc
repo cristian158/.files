@@ -1,8 +1,8 @@
 super + shift + m
-    $HOME/.config/sxhkd/mpd.sh
+    ~/.config/sxhkd/mpd.sh
 
 super + v
-    $HOME/.config/sxhkd/virt-manager1.sh
+    ~/.config/sxhkd/virt-manager1.sh
 
 alt + Return
     alacritty
@@ -32,11 +32,11 @@ super + Escape
 
 # shutdown
 super + alt + Escape
-    alacritty -e bash $HOME/.config/sxhkd/shutdown.sh
+    alacritty -e bash ~/.config/sxhkd/shutdown.sh
 
 # reboot
 super + alt + o
-    alacritty -e bash $HOME/.config/sxhkd/reboot.sh 
+    alacritty -e bash ~/.config/sxhkd/reboot.sh 
 
 
 # quit/restart bspwm

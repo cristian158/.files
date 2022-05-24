@@ -98,6 +98,7 @@ alias wifi='bash ~/github/00scripts/wifi-password.sh'
 # Custom Shell Script to connect to WiFi
 alias connect='bash ~/github/00scripts/connect-wifi.sh'
 
+
 #####################
 ###   FUNCTIONS   ###
 #####################
