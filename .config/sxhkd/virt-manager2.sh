@@ -41,13 +41,10 @@ echo Available domains:
 echo ''
 sudo virsh list --all
 
-# Starting selected domain
-read -p "Pick your weapon: " chosendomain
-startinge=$(sudo virsh start $chosendomain)
-if [ $starting ]
-then
-    echo Starting $chosendomain
-fi
+# Select and start domain
+read -p 'Pick your weapon: ' chosendomain
+sudo virsh start $chosendomain
+# echo Starting $chosendomain
 
 #Bye
 sleep 1
