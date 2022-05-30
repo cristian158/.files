@@ -2,7 +2,7 @@
 # CUSTOMIZED BSPWMRC
 
 ## Autostart ##
-feh -z --bg-max '/home/manjar/Documents/Images/WP/' &
+feh -z --bg-max '/home/manjar/Pictures/WP/' &
 ./.config/polybar/launch.sh & 
 
 ## Monitor ##

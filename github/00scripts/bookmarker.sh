@@ -1,7 +1,12 @@
 #! /bin/bash
 
-# nano cmd alone works ## (no sé qué quice decir)
-# added parafernalia for interactivity
+#######################################################
+###                                                 ###
+###   Custom script to add url to own bookmarker    ###
+###   work in progress.......                       ###
+###                                                 ###
+#######################################################
+
 
 while true; do
 	read -p "

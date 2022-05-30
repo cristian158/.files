@@ -46,7 +46,7 @@ alias ls='lsd -lh --group-dirs first'
 alias lsa='ls -A'
 alias lst='ls -A --total-size'
 alias lss='/bin/ls'
-alias pactree='pactree -c'
+alias pactree='pactree -rc'
 alias pm='pacman' 
 alias proxy='proxy.sh'
 alias remove='rm -rfv'
@@ -76,6 +76,13 @@ alias y='yay'
 alias hotS59='nmcli device wifi connect S59 password novoadoogee' 
 alias myip='curl http://ipecho.net/plain; echo'
 alias ping='ping -c 5 archlinux.org'
+alias nets='bash ~/github/00scripts/rofi-wifi-menu/rofi-wifi-menu.sh'
+
+# Config Files
+alias vsx='vim .config/sxhkd/sxhkdrc'
+alias vp='vim .config/polybar/config.ini'
+alias vb='vim .config/bspwm/bspwmrc'
+
 
 
 #########################
