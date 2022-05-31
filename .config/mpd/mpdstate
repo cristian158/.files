@@ -1,8 +1,8 @@
-sw_volume: 66
+sw_volume: 98
 audio_device_state:1:pulse audio
 state: pause
-current: 2320
-time: 221.913000
+current: 4136
+time: 0.901000
 random: 1
 repeat: 1
 single: 0
