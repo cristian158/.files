@@ -46,7 +46,7 @@ alias ls='lsd -lh --group-dirs first'
 alias lsa='ls -A'
 alias lst='ls -A --total-size'
 alias lss='/bin/ls'
-alias pactree='pactree -rc'
+#alias pactree='pactree -rc'
 alias pm='pacman' 
 alias proxy='proxy.sh'
 alias remove='rm -rfv'
@@ -146,3 +146,27 @@ bindkey "^f" forward-word
 #^s freezes
 #^u delete from cursor til beginning
 #^r backsearch commmand
+
+
+#########################
+###   ENV VARIABLES   ###
+#########################
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_CONFIG_HOME="$HOME/.config"
+export XDG_STATE_HOME="$HOME/.local/state"
+export XDG_CACHE_HOME="$HOME/.cache"                      
+export ATOM_HOME="$XDG_DATA_HOME"/atom
+#export HISTFILE="${XDG_STATE_HOME}"/bash/history
+export CARGO_HOME="$XDG_DATA_HOME"/cargo                        #~/.cargo
+export GNUPGHOME="$XDG_DATA_HOME"/gnupg                         #~/.gnupg
+export GTK_RC_FILES="$XDG_CONFIG_HOME"/gtk-2.0/gtkrc
+export LESSHISTFILE="$XDG_CACHE_HOME"/less/history
+export DVDCSS_CACHE="$XDG_DATA_HOME"/dvdcss
+export ICEAUTHORITY="$XDG_CACHE_HOME"/ICEauthority
+export MYSQL_HISTFILE="$XDG_DATA_HOME"/mysql_history
+export NODE_REPL_HISTORY="$XDG_DATA_HOME"/node_repl_history
+#export XINITRC="$XDG_CONFIG_HOME"/X11/xinitrc
+export HISTFILE="$XDG_STATE_HOME"/zsh/history
+
+
+#nvidia-settings --config="$XDG_CONFIG_HOME"/nvidia/settings

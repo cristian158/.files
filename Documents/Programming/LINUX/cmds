@@ -90,7 +90,7 @@ $ inxi -Fx                                      // complete fastfetchish
                                                 // -x adds extra data
 ## NETWORK
 $ inxi -Na                                      // -N network devices, driver
-                                                // -a advanced sys admin data
+                                                 // -a advanced sys admin data
 
 $ mhwd                                          // display & network controllers
 
