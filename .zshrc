@@ -49,7 +49,7 @@ alias lss='/bin/ls'
 #alias pactree='pactree -rc'
 alias pm='pacman' 
 alias proxy='proxy.sh'
-alias remove='rm -rfv'
+alias rem='rm -rfv'
 alias trash='cd ~/.local/share/Trash/files'
 ## alias h='--help'
 
